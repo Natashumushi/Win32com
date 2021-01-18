@@ -1,1 +1,1 @@
-# Automate the office stuff with Python
+# Automate the office stuff with Python.
