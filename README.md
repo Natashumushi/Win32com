@@ -1,1 +1,1 @@
-# Win32com
+# Automate the office stuff with Python
